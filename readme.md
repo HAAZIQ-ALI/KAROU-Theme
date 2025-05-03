@@ -17,7 +17,13 @@ A beautiful dark theme for VSCodium/Visual Studio Code. Inspired by Waguri kaoru
 
 ##ScreenShots
 ![image](https://github.com/user-attachments/assets/375cd33e-4d23-4de4-9e1e-0f7e2ab57fca)
+![image](https://github.com/user-attachments/assets/9a5c1e3f-9aa2-405f-8040-d9594a4c149e)
+![image](https://github.com/user-attachments/assets/7c183767-4558-4a94-ab7d-96e3c0a2575c)
+![image](https://github.com/user-attachments/assets/0648f3a7-92e6-4e6f-be10-e443906737d2)
 
+![image](https://github.com/user-attachments/assets/ca87a9c3-98d6-463b-bdfa-59829b28d343)
+
+![image](https://github.com/user-attachments/assets/eada73ed-0d26-4728-a037-a20f5e7f648a)
 
 
 
