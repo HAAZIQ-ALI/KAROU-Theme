@@ -15,7 +15,7 @@ A beautiful dark theme for VSCodium/Visual Studio Code. Inspired by Waguri kaoru
 3. Search for `KAROU Theme`.
 4. Click on **Install**.
 
-##ScreenShots
+## ScreenShots
 ![image](https://github.com/user-attachments/assets/375cd33e-4d23-4de4-9e1e-0f7e2ab57fca)
 ![image](https://github.com/user-attachments/assets/9a5c1e3f-9aa2-405f-8040-d9594a4c149e)
 ![image](https://github.com/user-attachments/assets/7c183767-4558-4a94-ab7d-96e3c0a2575c)
