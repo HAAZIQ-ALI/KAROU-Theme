@@ -19,3 +19,6 @@ Alternatively, you can install it using the command:
 
 ```bash
 ext install KAROU Theme
+
+##ScreenShots
+![image](https://github.com/user-attachments/assets/375cd33e-4d23-4de4-9e1e-0f7e2ab57fca)
