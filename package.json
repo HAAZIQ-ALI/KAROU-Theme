@@ -1,23 +1,34 @@
 {
-    "name": "karou-theme",
-    "displayName": "KAROU Theme",
-    "description": "A dark theme for VS Codium",
-    "version": "1.0.0",
-    "icon": "images/KAROU.jpg",
-    "publisher": "HAAZIQ-ALI",
-    "engines": {
-      "vscode": "^1.70.0"
-    },
-    "categories": [
-      "Themes"
-    ],
-    "contributes": {
-      "themes": [
-        {
-          "label": "KAROU",
-          "uiTheme": "vs-dark",
-          "path": "./themes/KAROU-Theme.json"
-        }
-      ]
-    }
+  "name": "karou-theme",
+  "displayName": "KAROU Theme",
+  "description": "A dark theme for VS Codium",
+  "version": "1.0.0",
+  "icon": "images/KAROU.jpg",
+  "publisher": "HAAZIQ-ALI",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "karou",
+    "color theme",
+    "vscode theme",
+    "vscodium theme",
+      "KAROU Theme",
+      "karou theme",
+    "KAROU theme"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KAROU",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KAROU-Theme.json"
+      }
+    ]
   }
+}
