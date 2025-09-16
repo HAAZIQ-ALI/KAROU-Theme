@@ -1,0 +1,44 @@
+{
+	"name": "karou-theme",
+	"displayName": "KAROU Theme",
+	"description": "A dark theme collection for VS Codium with nature-inspired colors",
+	"version": "3.0.1",
+	"icon": "images/icon-3.png",
+	"publisher": "HAAZIQ-ALI",
+	"keywords": [
+		"theme",
+		"dark theme",
+		"karou",
+		"serene depths",
+		"color theme",
+		"vscode theme",
+		"vscodium theme",
+		"nature theme"
+	],
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "KAROU",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KAROU-Theme.json"
+			},
+			{
+				"label": "KAROU - Noir Depths",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-Theme.json"
+			},
+			{
+				"label": "KAROU - Kitty Catty",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kitty-catty-theme.json"
+			}
+		]
+	}
+	
+}
