@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="karou-theme" Version="2.0.0" Publisher="HAAZIQ-ALI" />
+			<Identity Language="en-US" Id="karou-theme" Version="3.0.1" Publisher="HAAZIQ-ALI" />
 			<DisplayName>KAROU Theme</DisplayName>
 			<Description xml:space="preserve">A dark theme collection for VS Codium with nature-inspired colors</Description>
 			<Tags>theme,dark theme,karou,serene depths,color theme,vscode theme,vscodium theme,KAROU Theme,karou theme,KAROU theme,nature theme,color-theme,__web_extension</Tags>

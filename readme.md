@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/HAAZIQ-ALI/KAROU-Theme/master/images/icon.svg" width="300" style="border-radius:50%; background:#1A1C2E; box-shadow:0 0 10px #0D0F10;" alt="KAROU Icon"/><br/>
+  <img src="https://raw.githubusercontent.com/HAAZIQ-ALI/KAROU-Theme/master/images/icon-3.png" width="300" style="border-radius:50%; background:#1A1C2E; box-shadow:0 0 10px #0D0F10;" alt="KAROU Icon"/><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="24" width="0px"/>
   <span style="color:#242933;font-size:1.8em;letter-spacing:0.5px;"><b>KAROU Theme</b> for <a href="https://code.visualstudio.com" style="color:#0D0F10;">VSCode</a> </span>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="24" width="0px"/>

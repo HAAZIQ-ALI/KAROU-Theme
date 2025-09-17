@@ -3,8 +3,12 @@
 	"displayName": "KAROU Theme",
 	"description": "A dark theme collection for VS Codium with nature-inspired colors",
 	"version": "3.0.1",
-	"icon": "images/icon.svg",
+	"icon": "images/icon-3.png",
 	"publisher": "HAAZIQ-ALI",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HAAZIQ-ALI/KAROU-Theme.git"
+	},
 	"keywords": [
 		"theme",
 		"dark theme",
